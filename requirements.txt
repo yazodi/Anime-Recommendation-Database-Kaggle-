@@ -1,0 +1,5 @@
+streamlit
+lightfm
+numpy
+pandas
+scikit-learn

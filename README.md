@@ -4,6 +4,16 @@ This project builds a **collaborative filtering-based anime recommendation syste
 We use the [LightFM](https://making.lyst.com/lightfm/docs/home.html) library to recommend anime to users based on their past ratings.
 
 ---
+Streamlit Özellikleri
+Kullanıcı ID seçerek öneri alabilirsiniz
+
+İzlenen animeler gösterilir
+
+İzlenmeyen ve önerilen animeler listelenir
+
+Model
+Model Hugging Face üzerinde:
+👉 Anime LightFM Modeli - Hugging Face
 
 ## 📦 Dataset
 
@@ -61,6 +71,9 @@ Hande Çarkcı
 
 
 ---
+
+Lisans
+MIT License
 
 ## 🎓 Disclaimer – Educational Purpose
 
